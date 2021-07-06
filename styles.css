@@ -392,7 +392,7 @@ background: none;
     background: none;
 }
 
-/*.da-dots span {
+.da-dots span {
     display: inline-block;
     position: relative;
     width: 16px;
@@ -406,7 +406,7 @@ background: none;
 }
 .da-dots{
 	margin-top: 100px;
-}*/
+}
 .secPad{
 	padding:60px 0;
 }
