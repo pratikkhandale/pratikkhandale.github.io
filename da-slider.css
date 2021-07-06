@@ -95,7 +95,7 @@
 .da-slide .da-link:hover{
 	background: rgba(255,255,255,0.3);
 }
-.da-dots{
+/*.da-dots{
 	width: 100%;
 	position: absolute;
 	text-align: center;
@@ -134,7 +134,7 @@
 	background: -ms-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(246,246,246,1) 47%,rgba(237,237,237,1) 100%);
 	background: linear-gradient(top, rgba(255,255,255,1) 0%,rgba(246,246,246,1) 47%,rgba(237,237,237,1) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ededed',GradientType=0 );
-}
+}*/
 .da-arrows{
 	-moz-user-select: none;
 	-webkit-user-select: none;
